@@ -8,11 +8,42 @@
       "locals": {
         "top": [],
         "body": [],
+        "headline": "",
+        "date": "",
+        "byline": "",
+        "pages": {
+          "page_0_link": "",
+          "page_0_title": "",
+          "page_0_cover_img": "",
+          "page_0_cover_caption": "",
+          "page_0_heading": "",
+          "page_0_date": "",
+          "page_0_byline": "",
+          "page_1_link": "",
+          "page_1_title": "",
+          "spage_1_cover_img": "",
+          "page_1_cover_caption": "",
+          "page_1_heading": "",
+          "page_1_date": "",
+          "page_1_byline": "",
+          "page_2_link": "",
+          "page_2_title": "",
+          "page_2_cover_img": "",
+          "page_2_cover_caption": "",
+          "page_2_heading": "",
+          "page_2_byline": "",
+          "page_2_date": ""
+        },
+        "bodies": {
+          "page_0": [],
+          "page_1": [],
+          "page_2": []
+        },
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1l5UmBI-zzJZhZe9502cuYcI6PU-LJ5vC8Q5lrakePE4/edit?usp=sharing"
       }
     }
   }
