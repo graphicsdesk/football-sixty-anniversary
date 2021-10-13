@@ -675,7 +675,7 @@
             {
               "type": "graphic",
               "value": {
-                "asset": "week1standing.html"
+                "asset": "week9standing.html"
               }
             }
           ],
@@ -816,11 +816,11 @@
             },
             {
               "type": "text",
-              "value": "<i>Deputy Sports Editor Leela Chari can be contacted at </i><a href=\"mailto:leela.chari@columbiaspectator.com\"><i>leela.chari@columbiaspectator.com</i></a><i>.</i>"
+              "value": "<i>Graphics Reporter Leela Chari can be contacted at </i><a href=\"mailto:leela.chari@columbiaspectator.com\"><i>leela.chari@columbiaspectator.com</i></a><i>.</i>"
             },
             {
               "type": "text",
-              "value": "<i>Deputy Sports Editor Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>.</i>"
+              "value": "<i>Graphics Reporter Andrew Park can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>.</i>"
             },
             {
               "type": "text",
