@@ -8,26 +8,26 @@
       "locals": {
         "top": [],
         "body": [],
-        "headline": "‘This is very much a team’: A look back at the 1961 football squad 60 years later, Columbia’s one and only champion",
+        "headline": "60 years later: A look back at the 1961 football squad, Columbia’s one and only champion",
         "date": "10/13/2021",
         "byline": "Matthew Kim\nGraphics by Leela Chari and Andrew Park",
         "pages": {
           "page_0_link": "",
-          "page_0_title": "‘This is very much a team’: A look back at the 1961 football squad 60 years later, Columbia’s one and only champion",
-          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
+          "page_0_title": "60 years later: A look back at the 1961 football squad, Columbia’s one and only champion",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WZHBY65AFZELLLAHT3EQINXSZ4.jpg",
           "page_0_cover_caption": "",
           "page_0_heading": "Part 1",
           "page_0_date": "10/13/2021",
-          "page_0_byline": "Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
+          "page_0_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
           "page_1_link": "",
           "page_1_title": "With a few rumbling wins, the Lions wake up the rest of the Ancient Eight",
           "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
           "page_1_cover_caption": "",
           "page_1_heading": "Part 2",
           "page_1_date": "10/13/2021",
-          "page_1_byline": "By Matthew Kim",
+          "page_1_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
           "page_2_link": "",
-          "page_2_title": "After an unexpected setback, the Lions keep rolling",
+          "page_2_title": "After an initial setback, the charge for the title intensifies",
           "page_2_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GEGHZ4LKZBCH7KHH2NQ44CY4LA.jpg",
           "page_2_cover_caption": "",
           "page_2_heading": "Part 3",
@@ -147,7 +147,7 @@
             },
             {
               "type": "text",
-              "value": "Campbell, Donelli, and assistant coach Don Savini, were key figures in enforcing the team’s 10:30 p.m. curfew, which had not been adhered to in the past. Not only that, he and the other seniors decided to create a no-partying policy during the season."
+              "value": "Campbell, Donelli, and assistant coach Don Savini were key figures in enforcing the team’s 10:30 p.m. curfew, which had not been adhered to in the past. Not only that, he and the other seniors decided to create a no-partying policy during the season."
             },
             {
               "type": "text",
@@ -197,6 +197,10 @@
             {
               "type": "text",
               "value": "First up: Brown."
+            },
+            {
+              "type": "text",
+              "value": "Read the next part here."
             }
           ],
           "page_1": [
@@ -337,7 +341,7 @@
             },
             {
               "type": "text",
-              "value": "The Bulldogs, fresh off an 18-0 win over Connecticut, were riding an 11-game winning streak, the longest in the nation. Nevertheless, Yale head coach Jordan Olivar was rather pessimistic for a man whose team had not lost a game in nearly two years."
+              "value": "The Bulldogs, fresh off a 14-3 win over Brown, were riding an 11-game winning streak, the longest in the nation. Nevertheless, Yale head coach Jordan Olivar was rather pessimistic for a man whose team had not lost a game in nearly two years."
             },
             {
               "type": "text",
@@ -453,6 +457,10 @@
               "value": {
                 "asset": "week4standing.html"
               }
+            },
+            {
+              "type": "text",
+              "value": "Read the next part here."
             }
           ],
           "page_2": [
@@ -741,6 +749,10 @@
               "value": {
                 "asset": "week9standing.html"
               }
+            },
+            {
+              "type": "text",
+              "value": "Read the next part here."
             }
           ],
           "page_3": [
