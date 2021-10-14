@@ -1,19 +1,30 @@
+<script type="text/javascript">
+  function hamburgerTrigger() {
+    const navbar = document.getElementById('navbar');
+    navbar.classList.toggle('show-nav-links');
+  }
+</script>
 <div id="navbar" class="only-logo">
   <div class="logo-container">
     <a href="https://www.columbiaspectator.com">
-      <img id="cds-logo" src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png" />
+      <img
+        id="cds-logo"
+        src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png"
+      />
     </a>
-    <button onclick="script.hamburgerTrigger()" class="hamburger-btn">
+    <button onclick="n()" class="hamburger-btn">
       <div class="hamburger"></div>
     </button>
   </div>
 
   <div id="nav-links">
-    <each loop="item in [0, 1, 2, 3].map(p => ({
+    <each
+      loop="item in [0, 1, 2, 3].map(p => ({
         pageNum: p,
         name: pages['page_' + p + '_heading'],
         link: pages['page_' + p + '_link'],
-      }))">
+      }))"
+    >
       <div class="nav-link" id="nav-link-{{ item.pageNum }}">
         <a href="{{ item.link }}">{{ item.name }}</a>
       </div>
@@ -22,7 +33,10 @@
 
   <div id="cds-logo-desktop-container">
     <a href="https://www.columbiaspectator.com">
-      <img id="cds-logo-desktop" src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png" />
+      <img
+        id="cds-logo-desktop"
+        src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png"
+      />
     </a>
   </div>
 </div>

@@ -12,28 +12,28 @@
         "date": "10/13/2021",
         "byline": "Matthew Kim\nGraphics by Leela Chari and Andrew Park",
         "pages": {
-          "page_0_link": "",
+          "page_0_link": "http://columbiaspectator.com/sports/2021/10/14/60-years-later-a-look-back-at-the-1961-football-squad-columbias-one-and-only-champion/",
           "page_0_title": "60 years later: A look back at the 1961 football squad, Columbia’s one and only champion",
           "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WZHBY65AFZELLLAHT3EQINXSZ4.jpg",
           "page_0_cover_caption": "",
           "page_0_heading": "Part 1",
           "page_0_date": "10/13/2021",
           "page_0_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
-          "page_1_link": "",
+          "page_1_link": "https://www.columbiaspectator.com/sports/2021/10/14/with-a-few-rumbling-wins-the-lions-wake-up-the-rest-of-the-ancient-eight/",
           "page_1_title": "With a few rumbling wins, the Lions wake up the rest of the Ancient Eight",
           "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
           "page_1_cover_caption": "",
           "page_1_heading": "Part 2",
           "page_1_date": "10/13/2021",
           "page_1_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
-          "page_2_link": "",
+          "page_2_link": "https://www.columbiaspectator.com/sports/2021/10/14/after-an-initial-setback-the-charge-for-the-title-intensifies/",
           "page_2_title": "After an initial setback, the charge for the title intensifies",
           "page_2_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GEGHZ4LKZBCH7KHH2NQ44CY4LA.jpg",
           "page_2_cover_caption": "",
           "page_2_heading": "Part 3",
           "page_2_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
           "page_2_date": "10/13/2021",
-          "page_3_link": "",
+          "page_3_link": "https://www.columbiaspectator.com/sports/2021/10/14/the-legacy-lives-on/",
           "page_3_title": "The legacy lives on",
           "page_3_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IZJHGOKJIJCDJGOGCPHZ44ZLVM.jpg",
           "page_3_cover_caption": "",
@@ -200,7 +200,7 @@
             },
             {
               "type": "text",
-              "value": "Read the next part here."
+              "value": "Read the next part <a href=\"https://www.columbiaspectator.com/sports/2021/10/14/with-a-few-rumbling-wins-the-lions-wake-up-the-rest-of-the-ancient-eight/\">here</a>."
             }
           ],
           "page_1": [
@@ -438,7 +438,7 @@
             },
             {
               "type": "text",
-              "value": "The Crimson controlled the third quarter, scoring again to narrow the Columbia lead down to 20-14. However, Harvard would make another fatal error. In the fourth, Harvard quarterback Mike Bassett threw a lateral pass, only for it to be intercepted by the Light Blue. Haggerty proceeded to score his second touchdown of the day on a one-yard drive, sealing the deal 26-14."
+              "value": "The Crimson controlled the third quarter, scoring again to narrow the Columbia lead down to 20-14. However, Harvard would make another fatal error. In the fourth, Harvard quarterback Mike Bassett threw a lateral pass, only for it to be intercepted by the Light Blue. Haggerty proceeded to score his second touchdown of the day on a one-yard run, sealing the deal 26-14."
             },
             {
               "type": "text",
@@ -460,7 +460,7 @@
             },
             {
               "type": "text",
-              "value": "Read the next part here."
+              "value": "Read the next part <a href=\"https://www.columbiaspectator.com/sports/2021/10/14/after-an-initial-setback-the-charge-for-the-title-intensifies/\">here</a>."
             }
           ],
           "page_2": [
@@ -752,12 +752,12 @@
             },
             {
               "type": "text",
-              "value": "Read the next part here."
+              "value": "Read the next part <a href=\"https://www.columbiaspectator.com/sports/2021/10/14/the-legacy-lives-on/\">here</a>."
             }
           ],
           "page_3": [
             {
-              "type": "text",
+              "type": "subhed",
               "value": "The legacy of the 1961 team"
             },
             {
@@ -850,8 +850,8 @@
               "value": "Many of the players from the 1961 team still follow Columbia football closely. Warren, who has been a team doctor for the New York Giants for the past 35 years, said he goes to games each season. Sometimes, he also recommends players on whom he operates to look into Columbia."
             },
             {
-              "type": "text",
-              "value": "Columbia still looking for second title"
+              "type": "subhed",
+              "value": "The second title"
             },
             {
               "type": "text",
