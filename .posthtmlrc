@@ -9,30 +9,37 @@
         "top": [],
         "body": [],
         "headline": "‘This is very much a team’: A look back at the 1961 football squad 60 years later, Columbia’s one and only champion",
-        "date": "",
+        "date": "10/13/2021",
         "byline": "Matthew Kim\nGraphics by Leela Chari and Andrew Park",
         "pages": {
           "page_0_link": "",
-          "page_0_title": "",
-          "page_0_cover_img": "",
+          "page_0_title": "‘This is very much a team’: A look back at the 1961 football squad 60 years later, Columbia’s one and only champion",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
           "page_0_cover_caption": "",
-          "page_0_heading": "",
-          "page_0_date": "",
-          "page_0_byline": "",
+          "page_0_heading": "Part 1",
+          "page_0_date": "10/13/2021",
+          "page_0_byline": "Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
           "page_1_link": "",
-          "page_1_title": "",
-          "spage_1_cover_img": "",
+          "page_1_title": "With a few rumbling wins, the Lions wake up the rest of the Ancient Eight",
+          "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
           "page_1_cover_caption": "",
-          "page_1_heading": "",
-          "page_1_date": "",
-          "page_1_byline": "",
+          "page_1_heading": "Part 2",
+          "page_1_date": "10/13/2021",
+          "page_1_byline": "By Matthew Kim",
           "page_2_link": "",
-          "page_2_title": "",
-          "page_2_cover_img": "",
+          "page_2_title": "After an unexpected setback, the Lions keep rolling",
+          "page_2_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GEGHZ4LKZBCH7KHH2NQ44CY4LA.jpg",
           "page_2_cover_caption": "",
-          "page_2_heading": "",
-          "page_2_byline": "",
-          "page_2_date": ""
+          "page_2_heading": "Part 3",
+          "page_2_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
+          "page_2_date": "10/13/2021",
+          "page_3_link": "",
+          "page_3_title": "The legacy lives on",
+          "page_3_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IZJHGOKJIJCDJGOGCPHZ44ZLVM.jpg",
+          "page_3_cover_caption": "",
+          "page_3_heading": "Part 4",
+          "page_3_byline": "By Matthew Kim <br> Graphics by Leela Chari and Andrew Park",
+          "page_3_date": "10/13/2021"
         },
         "bodies": {
           "page_0": [
@@ -85,6 +92,15 @@
               "value": "While the first-years were turning heads with their impressive play, the varsity squad was solidifying itself as one of the Ivy League’s bottomfeeders. In 1958, the Lions went 1-6 in Ivy play, better only than a winless Yale team. The following year, many members of the ’58 Cub team, now sophomores, moved up to the varsity squad. Yet success on the field was still hard to come by. In 1959, the Lions again won a lone Ivy League game, and in 1960, they won only three."
             },
             {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WZHBY65AFZELLLAHT3EQINXSZ4.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
+            },
+            {
               "type": "text",
               "value": "“We were young guys bucking against some very good competition, and it was tough,” Vasell said."
             },
@@ -107,6 +123,15 @@
             {
               "type": "text",
               "value": "In essence, the team needed to surmount “an old culture of accepting losing,” as Vasell put it."
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BSGSL3PFUNFUTMVEASAFK6Z3FA.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",
@@ -145,6 +170,15 @@
               "value": "It seemed like the perfect storm. Columbia had one of the Ivy League’s best quarterbacks in Vasell; an explosive backfield consisting of Warren, junior Tom O’Connor, CC ’63, and senior Tom Haggerty, CC ’62; and all-Ivy linemen in Campbell, Asack, and senior Tony Day, CC ’62."
             },
             {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4O6ON6SCTJGTLCOMSYC2JJOIKU.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
+            },
+            {
               "type": "text",
               "value": "To put the cherry on top, Donelli was a legendary coach with even more legendary life experiences. He had coached in the National Football League, played soccer for the U.S. men’s national team, and served in the U.S. Navy during World War II. With these myriad experiences to draw from, Donelli was a fitting leader for a group that hungered to experience success for the first time."
             },
@@ -167,11 +201,7 @@
           ],
           "page_1": [
             {
-              "type": "text",
-              "value": "<b>PART II: With a few rumbling wins, the Lions wake up the rest of the Ancient Eight</b>"
-            },
-            {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 1: Brown vs. Columbia—Saturday, Sept. 30, 1961"
             },
             {
@@ -187,6 +217,15 @@
             {
               "type": "text",
               "value": "The Lions had dominated the Bruins 37-0 the year prior. This time, they one-upped that performance, putting on an offensive clinic in Providence. It only took Columbia’s second touchdown, a 56-yard connection between Vasell and Warren, to “[break] the spirit of the Providence team,” according to Spectator writer Conrad Sherman."
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KSFOPCDTV5B55HVM3YZGSOFVG4.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",
@@ -219,7 +258,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 2: Princeton vs. Columbia—Saturday, Oct. 7, 1961"
             },
             {
@@ -287,7 +326,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 3: Yale vs. Columbia—Saturday, Oct. 14, 1961"
             },
             {
@@ -321,6 +360,15 @@
               "value": "Joining another crowd of over 23,000, the Light Blue traveled to the Yale Bowl in hopes of ending the Bulldogs’ streak. However, the Bulldogs started strong, as Hard and fellow fullback Dick Niglio came out of the gates with a fast attack. The duo combined for 26 yards on four consecutive plays before a penalty stifled the Yale offense. At the 7:30 mark of the first quarter, Al Butts, CC ’64, picked off Leckonby’s pass, but the Lions could not convert on the interception."
             },
             {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TPHPRMAUEFGIRH7V6QO23CWGEY.jpeg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
+            },
+            {
               "type": "text",
               "value": "Butts, a sophomore thrust into the starting lineup in the wake of Haggerty’s injury, would become the game’s unexpected hero. In the second quarter, Butts ran to the end zone for the game’s first and only touchdown. He then scored himself on the ensuing two-point conversion."
             },
@@ -351,7 +399,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 4: Harvard vs. Columbia—Saturday, Oct. 21, 1961"
             },
             {
@@ -405,13 +453,11 @@
               "value": {
                 "asset": "week4standing.html"
               }
-            },
+            }
+          ],
+          "page_2": [
             {
-              "type": "text",
-              "value": "<b>PART III: After an unexpected setback, the Lions keep rolling</b>"
-            },
-            {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 5: Columbia vs. Lehigh—Saturday, Oct. 28, 1961"
             },
             {
@@ -455,7 +501,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 6: Cornell vs. Columbia—Saturday, Nov. 4, 1961"
             },
             {
@@ -503,7 +549,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 7: Columbia vs. Dartmouth—Saturday, Nov. 11, 1961"
             },
             {
@@ -563,7 +609,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 8: Columbia vs. Penn—Saturday, Nov. 18, 1961"
             },
             {
@@ -613,12 +659,30 @@
               "value": "With Columbia up 3-0, thanks to a field goal from O’Connor early in the first quarter, the Quakers were forced to punt from their own end zone as a Warren punt cornered them in their own territory. The Penn punt would not go far. Hassan broke through a line of Quakers and smothered the punt, which Black caught in the end zone to give the Lions’ their first touchdown."
             },
             {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FUHLUSTXSRCQTJQ64M3JCEZMGI.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
+            },
+            {
               "type": "text",
               "value": "In the second quarter, Columbia went back to its bread and butter. The Lions’ three primary backs rushed 10 times in a drive as Warren scored to increase the lead to 17. Before the close of the half, Dick Sakala, CC ’64, would run it in from 40 yards on a quarterback draw, making the score 23-0. The dominance continued in the second half: Haggerty, who had a dazzling 68-yard run in the third quarter, scored his 10th touchdown of the year, before Vasell converted on a quarterback sneak to conclude the scoring for the Lions."
             },
             {
               "type": "text",
               "value": "Time expired. It was over; the job was finally finished. The Lions did the unthinkable. They were champions."
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IZJHGOKJIJCDJGOGCPHZ44ZLVM.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",
@@ -643,7 +707,7 @@
               }
             },
             {
-              "type": "text",
+              "type": "subhed",
               "value": "Week 9: Harvard wins both, Princeton falls to Dartmouth after beating Yale"
             },
             {
@@ -679,14 +743,19 @@
               }
             }
           ],
-          "page_2": [
-            {
-              "type": "text",
-              "value": "<b>PART IV: The legacy lives on</b>"
-            },
+          "page_3": [
             {
               "type": "text",
               "value": "The legacy of the 1961 team"
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ERF4MJSK2ZD4JOKJTPU24J3CGQ.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",
@@ -723,6 +792,15 @@
               "value": "Even after graduation, Campbell was the glue that kept the team together. According to O’Donnell, the late Campbell would organize get-togethers with his former teammates, covering the airfare and other costs for those who did not have the financial means to attend."
             },
             {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AG2XENKVMNG2NJ6LLODDZPUAUY.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
+            },
+            {
               "type": "text",
               "value": "Campbell and Waldbaum developed a close relationship at Columbia that continued through their adult lives, with Campbell never failing to thank Waldbaum for his support of the team."
             },
@@ -733,6 +811,15 @@
             {
               "type": "text",
               "value": "For many of the 1961 Lions, the relationships they formed are what they cherish the most about that season. O’Donnell recalls Donelli telling him many years after 1961, “You know, one thing about your whole group is that you always supported one another.”"
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VN2WMKQGFBAGHFBYKCP7QBH744.jpeg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",
@@ -769,6 +856,15 @@
             {
               "type": "text",
               "value": "“Columbia’s never been known as a real football school in general, so those kinds of records are sort of self-perpetuating just from a recruiting point of view,” Warren said. “It’s very easy for other schools to tell recruits, ‘Well, why do you really want to go there if you’re not gonna win a lot of games?’”"
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3NDQMLYLERG27FY4JLNHVUIZGU.jpg",
+                "caption": "",
+                "credit": "Image courtesy of Columbia Athletics"
+              }
             },
             {
               "type": "text",

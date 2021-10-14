@@ -12,7 +12,7 @@
 
 #body-page-container.body-page-1 {
     .cover-hed header {
-        transform: translateY(-140%);
+        transform: translateY(-180%);
     }
     .cover>img {
         object-position: 90% 0;
@@ -21,7 +21,16 @@
 
 #body-page-container.body-page-2 {
     .cover-hed header {
-        transform: translateY(-200%);
+        transform: translateY(-210%);
+    }
+    .cover>img {
+        object-position: 90% 0;
+    }
+}
+
+#body-page-container.body-page-3 {
+    .cover-hed header {
+        transform: translateY(-230%);
     }
     .cover>img {
         object-position: 90% 0;
@@ -41,7 +50,7 @@
 
     #body-page-container.body-page-1 {
         .cover-hed header {
-            transform: translateY(-120%) !important;
+            transform: translateY(-170%) !important;
         }
     }
 }

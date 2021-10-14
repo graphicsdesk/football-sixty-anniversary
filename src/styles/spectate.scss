@@ -293,11 +293,11 @@ header {
     transition: border $fade-transition-duration;
 
     &.nav-link-highlighted, &:hover {
-      border-bottom: 3px solid #fff;
+      border-bottom: 3px solid black;
     }
 
     a {
-      color: #fff;
+      color: black;
     }
   }
 
